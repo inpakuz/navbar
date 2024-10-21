@@ -6,7 +6,7 @@ function Main() {
                     <div className="col-12 mt-5">
                         <div className="row">
                             <div className="col-3">
-                                <a className="text-danger text-start br1" href="#">D O M A   </a><br /> 
+                                <a className="text-danger text-start br1" href="#">D O M A KG</a><br /> 
                                 <span className="small">по суточная арендная жилья</span>
                             </div>
 
